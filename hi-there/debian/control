@@ -1,0 +1,12 @@
+source: hi-there
+Maintainer: Ross Jacobs (Project Maintainer) <merlinkproject@gmail.com>
+Section: python
+Priority: optional
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 10)
+
+Package: hi-there
+Architecture: any
+Depends: ${misc:Depends}
+Description: This program will say 'Hi There!'
+ EXTENDED DESCRIPTION CONTENT

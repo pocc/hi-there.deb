@@ -1,0 +1,9 @@
+Package: hi-there
+Version: 1.0-0
+Architecture: amd64
+Maintainer: Ross Jacobs (Project Maintainer) <merlinkproject@gmail.com>
+Installed-Size: 5250
+Section: python
+Priority: optional
+Description: This program will say 'Hi There!'
+ EXTENDED DESCRIPTION CONTENT
